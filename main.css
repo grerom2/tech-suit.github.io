@@ -27,6 +27,7 @@ a:action {
 }
 .resume {
 	font-family : 'Times New Roman', sans-serif;
+	background-color : blue;
 	position : fixed;
 	padding : 25px;
 	width : 100%;
