@@ -1,0 +1,41 @@
+.link {
+	font-family : 'Quicksand', sans-serif;
+	background-color : 000;
+	color : blue;
+	padding : 10px;
+	width : 100%;
+	position : fixed;
+	font-size : 25px;
+}
+a:link {
+	text-decoration : none;
+	color : blue;
+	padding : 5px;
+	margin-left : 25px;
+	margin-right : 25px;
+}
+a:action {
+	text-decoration : none;
+	color : red;
+}
+.paper {
+	font-family : 'Times New Roman', sans-serif;
+	background-color : blue;
+	position : fixed;
+	padding : 25px;
+	width : 100%
+}
+.resume {
+	font-family : 'Times New Roman', sans-serif;
+	background-color : blue;
+	position : fixed;
+	padding : 25px;
+	width : 100%;
+}
+.equipment_techinques {
+	font-family : 'Times New Roman', sans-serif;
+	background-color : blue;
+	position : fixed;
+	padding : 25px;
+	width : 100%;
+}
