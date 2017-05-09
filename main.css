@@ -18,6 +18,14 @@ a:action {
 	text-decoration : none;
 	color : red;
 }
+.table1 {
+	font-family : 'Quicksand', sans-serif;
+	color : blue;
+	padding : 10px;
+	width : 100%;
+	position : fixed;
+	font-size : 25px;
+}
 .paper {
 	font-family : 'Quicksand', sans-serif;
 	color : blue;
