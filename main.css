@@ -28,7 +28,7 @@ a:action {
 }
 .paper {
 	font-family : 'Quicksand', sans-serif;
-	color : blue;
+	color : black;
 	padding : 10px;
 	width : 100%;
 	position : fixed;
@@ -36,14 +36,14 @@ a:action {
 }
 .resume {
 	font-family : 'Quicksand', sans-serif;
-	color : blue;
+	color : black;
 	padding : 10px;
 	width : 100%;
 	font-size : 25px;
 }
 .equipment_techinques {
 	font-family : 'Quicksand', sans-serif;
-	color : blue;
+	color : black;
 	padding : 10px;
 	width : 100%;
 	position : fixed;
@@ -51,7 +51,7 @@ a:action {
 }
 .board {
 	font-family : 'Quicksand', sans-serif;
-	color : blue;
+	color : black;
 	padding : 10px;
 	width : 100%;
 	position : fixed;
@@ -59,7 +59,7 @@ a:action {
 }
 .podcast {
 	font-family : 'Quicksand', sans-serif;
-	color : blue;
+	color : black;
 	padding : 10px;
 	width : 100%;
 	position : fixed;
